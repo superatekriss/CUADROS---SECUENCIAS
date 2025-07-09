@@ -5,7 +5,7 @@
   <title>Thinking - Juego de Secuencia</title>
   <style>
     body {
-      font-family: sans-serif;
+      font-family: sans-serif; 
       text-align: center;
       background-color: #f0f4f8;
       margin: 0;
